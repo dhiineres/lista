@@ -1,6 +1,8 @@
 Lista 1:
 
 1-   git –version
+fasfdljkaslçdk
+asjd~klçdsf
 
 2-
 	a. Lista todas as configurações já efetuadas do git em uma máquina.
